@@ -56,14 +56,16 @@ A pair of simple PiCars
 
 |                                                                                 | Member | GitHub  | Role         |
 |---------------------------------------------------------------------------------|--------|---------|--------------|
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/ic">  | Eric Platon | @ic | Coordinator / Build Leader |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgururao"> | Venkatesh G. Rao | @vgururao | Build Leader |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/tilnow"> | Maier Fenster | @tilnow | Build Leader |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/anuraj-rp"> | Anuraj R | @anuraj-rp | Build Leader |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgh"> | Victor Hill | @vgh | Build Leader |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/ic">  | Eric Platon | [@ic](https://github.com/ic) | Coordinator / Build Leader |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgururao"> | Venkatesh G. Rao | [@vgururao](https://github.com/vgururao) | Build Leader |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/tilnow"> | Maier Fenster | [@tilnow](https://github.com/tilnow) | Build Leader |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/anuraj-rp"> | Anuraj R | [@anuraj-rp](https://github.com/anuraj-rp) | Build Leader |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgh"> | Victor Hill | [@vgh](https://github.com/vgh) | Build Leader |
 |  | Jascha |  | Technical Expert |
-| <img width="50" alt="image" src="https://avatars.githubusercontent.com/rhettg"> | Rhett Garber | @rhettg | Build Leader |
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/rhettg"> | Rhett Garber | [@rhettg](https://github.com/rhettg) | Build Leader |
 |  | Sai Prasanna |  | Build Leader |
+|  | Brian Smith |  | Build Leader |
+
 
 
 
