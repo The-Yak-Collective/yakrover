@@ -56,8 +56,8 @@ A pair of simple PiCars
 
 |                                                                                 | Member | GitHub  | Role         |
 |---------------------------------------------------------------------------------|--------|---------|--------------|
+| <img width="50" alt="image" src="https://avatars.githubusercontent.com/ic">  | Eric Platon | @ic | Coordinator / Build Leader |
 | <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgururao"> | Venkatesh G. Rao | @vgururao | Build Leader |
-|  | Eric Platon |  | Coordinator / Build Leader |
 | <img width="50" alt="image" src="https://avatars.githubusercontent.com/tilnow"> | Maier Fenster | @tilnow | Build Leader |
 | <img width="50" alt="image" src="https://avatars.githubusercontent.com/anuraj-rp"> | Anuraj R | @anuraj-rp | Build Leader |
 | <img width="50" alt="image" src="https://avatars.githubusercontent.com/vgh"> | Victor Hill | @vgh | Build Leader |
